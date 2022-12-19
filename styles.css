@@ -1,0 +1,203 @@
+*{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.Prima {
+    background: #1f2937;
+    color: white;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+}
+
+.Prima-blocco1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 500px;
+}
+
+.Prima-blocco1-a {
+    font-size: 24px;
+    margin: 20px;
+}
+
+.Prima-blocco1-b {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+
+.Prima-blocco1-b-text1 ,
+.Prima-blocco1-b-text2,
+.Prima-blocco1-b-text3 {
+    font-size: 18px;
+}
+
+.Prima-blocco2 {
+    margin-left: 50px;
+    margin-right: 100px;
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.Prima-blocco2-a {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+}
+
+.Prima-blocco2-b {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+    height: 200px;
+    width: 150px;
+}
+
+.Prima-blocco2-b-container {
+    color: white;
+}
+
+.a {
+    font-size: 48px;
+    color: white;
+    font-weight: 900;
+    margin: 20px;
+    text-align: center;
+}
+
+.b {
+    text-align: center;
+}
+
+.c {
+    background-color: #3882F6;
+    width: max-content;
+    border-radius: 5px;
+    font-size: 18px;
+    margin-left: 10px;
+    padding: 3px;
+    text-align: center;
+    }
+
+.Prima-blocco2-a-SingUp {
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Seconda {
+    margin: 20px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.Seconda-blocco1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+}
+
+.Seconda-blocco2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    text-align: center;
+}
+
+.Seconda-blocco2-g-2,
+.Seconda-blocco2-h-2,
+.Seconda-blocco2-i-2,
+.Seconda-blocco2-j-2 {
+    height: 150px;
+    width: 150px;
+    border: 3px solid #3882F6;
+    border-radius: 10px;;
+}
+
+.Terza {
+    background: #e5e7eb;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 36px;
+    font-style: italic;
+}
+
+.k,
+.l {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.l {
+    width: 600px;
+    display: flex;
+    font-weight: 700;
+    justify-content: right;
+}
+
+.Quarta {
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Quarta-container {
+    display: flex;
+    background-color: #3882F6;
+    height: 100px;
+    width: 1000px;
+    border-radius: 10px;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    gap: 300px;
+}
+
+.m {
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.Quarta-right {
+    border: 2px solid #e5e7eb;
+    border-radius: 5px;
+    width: 70px;
+    padding: 10px;
+    text-align: center;
+}
+
+
+.Quinta {
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #1f2937;
+    color: white;
+    font-size: 18px;
+}
