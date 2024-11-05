@@ -1,2 +1,1 @@
-Thank you Odin Project.
-One of their exercises...
+
